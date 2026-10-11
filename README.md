@@ -30,7 +30,7 @@
 >
 > *"Good evening. Protocol initialized. All neural circuits operating at peak efficiency."*
 >
-> I am a **Knowledge Engineering (KE)** specialist architecting cognitive systems at the bleeding edge where autonomous intelligence meets physical execution. While others iterate, I architect: constantly upgrading my own neural networks, synchronizing computer vision pipelines with robotic actuators, and directing high-fidelity cinematic narratives. Call it visionary arrogance or precision engineering; either way, I bridge the chasm between deep-tier AI and visual storytelling. I don't wait for the future to compile—I deploy it in real time.
+> I'm currently studying **Knowledge Engineering**, where I spend most of my time training models and experimenting with computer vision pipelines. I love tackling complex problems and building practical AI systems from the ground up. Outside of the terminal, I'm a massive film nerd who writes scripts and shoots videos as a hobby to disconnect from the code.
 
 <br/>
 
