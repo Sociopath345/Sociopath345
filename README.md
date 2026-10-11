@@ -99,12 +99,16 @@
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Holographic HUD Divider" />
 
-  <br/>
+  <br/><br/>
 
-  ### ⚡ SYSTEM OVERRIDE // CORE PHILOSOPHY
+  <h3>⚡ SYSTEM OVERRIDE // CORE PHILOSOPHY</h3>
 
-  > *"The biggest risk is not taking any risk"*  
-  > **~ Mark Zuckerberg**
+  <blockquote>
+    <p>
+      <em>"The biggest risk is not taking any risk"</em><br/>
+      <strong>~ Mark Zuckerberg</strong>
+    </p>
+  </blockquote>
 
   <br/>
 
